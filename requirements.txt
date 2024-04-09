@@ -1,0 +1,32 @@
+# ikomia 
+# requests 
+# opencv-python 
+# opencv-python-headless
+
+
+absl-py==2.1.0
+h5py==3.10.0
+imutils==0.5.4
+keras==2.15.0
+Keras-Preprocessing==1.1.2
+matplotlib==3.8.3
+numpy==1.26.4
+opencv-python==4.9.0.80
+pandas==2.2.1
+Pillow==10.2.0
+python-dateutil==2.8.2
+pytz==2024.1
+requests==2.31.0
+scipy==1.12.0
+six==1.16.0
+tensorboard==2.15.0
+tensorboard-data-server==0.7.2
+tensorflow==2.15.0
+tensorflow-estimator==2.15.0
+termcolor==2.4.0
+typing-extensions==4.10.0
+wrapt==1.14.1
+zipp==3.17.0
+yolov8
+ultralytics==8.0.89
+Flask
